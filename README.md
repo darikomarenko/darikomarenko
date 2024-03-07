@@ -1,5 +1,5 @@
-<h1 align="left"Hi 👋, I'm Daria</h1>
-<h3 align="center">Frontend developer, Russia</h3>
+<h1> Hi 👋, I'm Daria</h1>
+<h3>Frontend developer, Russia</h3>
 
 На данный момент активно изучаю **TypeScript**, читаю книги про **UI/UX design**
 <p align="left">
