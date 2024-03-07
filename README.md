@@ -2,9 +2,6 @@
 <h3 align="center">Frontend developer, Russia</h3>
 
 На данный момент активно изучаю **TypeScript**, читаю книги про **UI/UX design**
-
-
-<h3 align="left">Мой контакт: @Dari_komarenko(telegram)</h3>
 <p align="left">
 </p>
 
