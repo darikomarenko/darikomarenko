@@ -1,4 +1,4 @@
-<h1 align="center"Hi 👋, I'm Daria</h1>
+<h1 align="left"Hi 👋, I'm Daria</h1>
 <h3 align="center">Frontend developer, Russia</h3>
 
 На данный момент активно изучаю **TypeScript**, читаю книги про **UI/UX design**
