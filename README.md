@@ -5,9 +5,9 @@ My **dream** is to take part in creation of some cool application which will be 
 <p align="left">
 </p>
 My BEST works:
-1. https://code-wizards.team
-2.http://remotellamas.com
-3.darikomarenko.github.io/landing-page/
+1. https://code-wizards.team <br/>
+2.http://remotellamas.com <br/>
+3.https://darikomarenko.github.io/landing-page/ 
 
 
 <h3 align="left">Languages and Tools:</h3>
