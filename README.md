@@ -16,4 +16,4 @@ My BEST works: <br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darikomarenko&show_icons=true&locale=en&layout=compact" alt="darikomarenko" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darikomarenko&" alt="darikomarenko" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=darikomarenko" /></p>
