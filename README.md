@@ -1,7 +1,7 @@
 <h1> Hi 👋 I'm Daria</h1>
 
-I'm a passionate Frontend-developer. Currently immersed in **Vue**, **TypeScript** and **UI/UX**-design.<br/>
-My **dream** is to take part in creation of some cool application which will be a great contribution to the world of IT.
+I'm a Frontend-developer. Currently immersed in **Vue**, **TypeScript** and **UI/UX**-design.<br/>
+My **dream** was to take part in creation of some cool application which will be a great contribution to the world of IT and it has come true! 
 <p align="left">
 </p>
 My BEST works: <br/>
