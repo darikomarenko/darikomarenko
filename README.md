@@ -5,7 +5,7 @@ My **dream** was to take part in creation of some cool application which will be
 <p align="left">
 </p>
 My BEST works: <br/>
-1.Next TS: https://code-wizards.team <br/>
+1.Next TS: https://code-wizards.team](https://github.com/Team-Code-Wizards/frontend) <br/>
 2.Next JS: http://remotellamas.com <br/>
 3.React, TS: https://darikomarenko.github.io/landing-page/ <br/>
 4.Redux Async +TS: https://darikomarenko.github.io/react-ts/
