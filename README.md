@@ -1,15 +1,9 @@
 <h1> Hi 👋 I'm Daria</h1>
 
 I'm a Frontend-developer. Currently immersed in **Vue**, **TypeScript** and **UI/UX**-design.<br/>
-My **dream** was to take part in creation of some cool application which will be a great contribution to the world of IT and it has come true! 
+My **dream** was to take part in creation of some cool application which will be a great contribution to the world of IT and it has come true at my work at Spherical. 
 <p align="left">
 </p>
-My BEST works: <br/>
-1.Next TS: https://code-wizards.team](https://github.com/Team-Code-Wizards/frontend) <br/>
-2.Next JS: http://remotellamas.com <br/>
-3.React, TS: https://darikomarenko.github.io/landing-page/ <br/>
-4.Redux Async +TS: https://darikomarenko.github.io/react-ts/
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="line-height: 0;">
