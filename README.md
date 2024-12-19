@@ -16,10 +16,6 @@ My **dream** was to take part in the creation of some cool application that will
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/></a>
 </p>
 
-<p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=darikomarenko" alt="GitHub Streak Stats" />
-</p>
-
 <p align="left">
   <img src="https://www.codewars.com/users/darikomarenko/badges/large" alt="Codewars Badge">
 </p>
