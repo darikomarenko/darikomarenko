@@ -1,7 +1,6 @@
 <h1> Hi 👋 I'm Daria</h1>
 
-I'm a Frontend-developer. Currently immersed in **Vue**, **TypeScript**, and **UI/UX**-design.<br/>
-My **dream** was to take part in the creation of some cool application that will be a great contribution to the world of IT, and it has come true at my work at Spherical. 
+Frontend-developer with a bit of Python past, currently immersed in **Vue**, **TypeScript**, and **UI/UX**-design.<br/>
 <p align="left">
 </p>
 
